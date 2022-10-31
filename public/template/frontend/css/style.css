@@ -1,0 +1,71 @@
+@media (min-width: 992px) {
+    .vector {
+        position: absolute;
+        width: 696.93px;
+        height: 668.48px;
+        left: 770px;
+    }
+    .bungkus {
+        display: flex;
+        flex-direction: column;
+        padding: 10px 10px 10px 120px;
+        gap: 20px;
+        position: absolute;
+        width: 680px;
+        height: 404px;
+        left: -37px;
+        top: 195px;
+    }
+    .text-branding {
+        width: 538px;
+        height: 231px;
+        font-family: "Lato";
+        font-style: normal;
+        font-weight: 800;
+        font-size: 64px;
+        line-height: 77px;
+        color: #322f2f;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+    .text-tag {
+        width: 550px;
+        height: 44px;
+        font-family: "Lato";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        color: #847e7e;
+        flex: none;
+        flex-grow: 0;
+    }
+    .device {
+        position: absolute;
+        width: 483.64px;
+        height: 425px;
+        left: 800px;
+        top: 20px;
+        z-index: 1;
+    }
+    .authentic {
+        display: flex;
+        flex-direction: row;
+        position: absolute;
+        width: 350px;
+        left: 620px;
+        top: 50%;
+        z-index: 1;
+    }
+    .btn-navbar {
+        border-color: black;
+        color: black;
+    }
+    .arrow {
+        position: absolute;
+        width: 200px;
+        left: 606px;
+        top: 50px;
+    }
+}
